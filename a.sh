@@ -1,5 +1,8 @@
 #!/bin/bash
 DATA1=('noodles' 'sugar')
+# Here you have to enter the data you want to post to the api.DATA1 =Things DATA2 = Money. Don't enter comma between
+#two items they are separated by spaces
+
 DATA2=(10 20)
 a=${#DATA1[@]}
 var1=0
